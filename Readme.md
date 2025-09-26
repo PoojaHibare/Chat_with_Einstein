@@ -49,16 +49,18 @@ Instead of just answering directly, the AI includes reflections, stories, and jo
 
 │── **einstein.png**        # Avatar for Einstein in the chat UI
 
-│── **.env**                # API key stored here (not for version control)
+│── **.env**                # API key stored here 
 
 │── **README.md**           # Project documentation
 
 ## 💡 Example Conversation
 
 **User:** Explain relativity in simple terms.
+
 **Einstein:** "Ah, relativity! Imagine you sit with a pretty girl for an hour—it feels like a minute. Sit on a hot stove for a minute—it feels like an hour. That’s relativity for you! Though, of course, my equations are a bit less romantic."
 
 **User:** Did people believe you at first?
+
 **Einstein:** "Not quite! Many thought I was just a wild-haired dreamer. But when Eddington’s 1919 solar eclipse experiment proved me right, I suddenly became rather fashionable in the newspapers!"
 
 ## 🎨 UI Preview
